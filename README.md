@@ -32,8 +32,10 @@
 </div>
 
 <div align="rigth">
-Jundiaí, fevereiro de 2024.
-Massaki de Oliveira Igarashi.
+
+    Jundiaí, fevereiro de 2024.
+    
+    Massaki de Oliveira Igarashi.
 </div>
 
 # I. DADOS PESSOAIS 
