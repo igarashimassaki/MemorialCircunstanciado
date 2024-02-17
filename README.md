@@ -2,7 +2,7 @@
 
 <div align="justify">
     O presente memorial está dividido em oito partes. 
-    Na primeira, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
+    Primeiramente, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
 </div>    
 <div align="justify">
     Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos 5 anos. 
@@ -35,3 +35,11 @@
 Jundiaí, fevereiro de 2024.
 Massaki de Oliveira Igarashi.
 </div>
+
+# I. DADOS PESSOAIS 
+Nome: 		   Massaki de Oliveira Igarashi
+Endereço: 	   Ponte São João – Jundiaí - SP
+E-mail: 	   massaki.igarashi@gmail.com
+# II. CURRÍCULO LATTES 
+(Clique para acessar o lattes no site do CNPQ)[https://lattes.cnpq.br/9359934526855676]
+anexo: comprovante n° II (Pág. 08)
