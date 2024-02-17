@@ -1,5 +1,5 @@
 # Memorial Circunstanciado - Prof. Massaki de O. Igarashi
- <div align="justify">
+<div align="justify">
     O presente memorial está dividido em oito partes. 
   
     Na primeira, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
@@ -22,8 +22,9 @@
     
     Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
-    
+</div>
+
+<div align="rigth">
     Jundiaí, fevereiro de 2024.
     Massaki de Oliveira Igarashi.
-
 </div>
