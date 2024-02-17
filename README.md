@@ -149,80 +149,57 @@ Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
 # VI. PARTICIPAÇÃO EM CONGRESSOS, WORKSHOPS, ETC. 
 ## Como Organizador 
 
-**2023**	*ORGANIZADOR - 2º Hackathon Mackenzie Campinas - 20out a 22nov23:* [Comprovante n° VI.01_Pág.38]()
+**2023**	*ORGANIZADOR - 2º Hackathon Mackenzie Campinas - 20out a 22nov23:* [Comprovante n° VI.01_Pág.38](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.01_ORGANIZADOR%20-%202%C2%BA%20Hackathon%20Mackenzie%20Campinas%20-%2020out%20a%2022nov23%20(P%C3%A1g.%2038).pdf)
 
-**2022**	*ORGANIZADOR - 1º Hackathon Mackenzie Campinas - 19 a 23set2022:*  [Comprovante n° VI.02_Pág.40]()
+**2022**	*ORGANIZADOR - 1º Hackathon Mackenzie Campinas - 19 a 23set2022:*  [Comprovante n° VI.02_Pág.40](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.02_ORGANIZADOR%20-%201%C2%BA%20Hackathon%20Mackenzie%20Campinas%20-%20%2019%20a%2023set2022%20(P%C3%A1g.%2040).pdf)
 
-2022	ORGANIZADOR  - MiniCurso Introducao à Linguagem Python com RPA - 6h - 12 a 19set22
-	anexo: comprovante n° VI.03 (Pág. 42)
+**2022**	*ORGANIZADOR  - MiniCurso Introducao à Linguagem Python com RPA - 6h - 12 a 19set22:* [comprovante n° VI.03_Pág.42](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.03_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%206h%20-%2012%20a%2019set22%20(P%C3%A1g.%2042).pdf)
 
-2022	ORGANIZADOR - Evento Mack Rede - Maria Guilhermina Lopes Fagundes - 11maio22
-	anexo: comprovante n° VI.04 (Pág. 43)
+**2022**	*ORGANIZADOR - Evento Mack Rede - Maria Guilhermina Lopes Fagundes - 11maio22:* [Comprovante n° VI.04_Pág.44](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.04_ORGANIZADOR%20-%20Evento%20Mack%20Rede%20-%20Maria%20Guilhermina%20Lopes%20Fagundes%20-%2011maio22%20(P%C3%A1g.%2044).pdf)
 
-2022	ORGANIZADOR  - MiniCurso Introducao à Linguagem Python com RPA - 30abr22
-	anexo: comprovante n° VI.05 (Pág. 44 )
+**2022**	*ORGANIZADOR  - MiniCurso Introducao à Linguagem Python com RPA - 30abr22:* [Comprovante n° VI.05_Pág.46](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.05_ORGANIZADOR%20%20-%20MiniCurso%20Introducao%20%C3%A0%20Linguagem%20Python%20com%20RPA%20-%2030abr22%20(P%C3%A1g.%2046).pdf)
 
-2022	ORGANIZADOR  - Evento Mack Rede - 13abr22
-	anexo: comprovante n° VI.06 (Pág. 45)
+**2022**	*ORGANIZADOR  - Evento Mack Rede - 13abr22:* [Comprovante n° VI.06_Pág.48](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.06_ORGANIZADOR%20%20-%20Evento%20Mack%20Rede%20-%2013abr22%20(P%C3%A1g.%2048).pdf)
 
-2020	ORGANIZADOR VI SEMACK
-		anexo: comprovante n° VI.07 (Pág. 46)
+**2020**	*ORGANIZADOR VI SEMACK:* [Comprovante n° VI.07_Pág.50](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.07_ORGANIZADOR%20VI%20SEMACK%20(P%C3%A1g.%2050).pdf)
 
-Como Avaliador 
+## Como Avaliador 
 
-	2023	Certificado Avaliador 14ª BENTOTEC 2023
-		anexo: comprovante n° VI.08 (Pág. 47)
+**2023**	*Certificado Avaliador 14ª BENTOTEC 2023:* [Comprovante n° VI.08_Pág.51](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.08_1_Certificado%20Avaliador%2014%C2%AA%20BENTOTEC%202023%20(P%C3%A1g.%2051).pdf)
 
-	2023	Certificado Avaliador(a) do PIBITI de 2023
-		anexo: comprovante n° VI.09 (Pág. 48)
+[Comprovante nº VI.08_2](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.08_2_Of%C3%ADcio%20Avaliador%2014%C2%AA%20BENTOTEC%202023.pdf)
 
-	2022	Ofício Avaliador 13ª BENTOTEC 2022
-		anexo: comprovante n° VI.10 (Pág. 49)
+**2023**	*Certificado Avaliador(a) do PIBITI de 2023:* [Comprovante n° VI.09_Pág.52](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.09_Certificado%20Avaliador(a)%20do%20PIBITI%20de%202023%20(P%C3%A1g.%2052).pdf)
 
-	2021	Certificado AVALIADOR Jornada IC2021
-		anexo: comprovante n° VI.11 (Pág. 50)
+**2022**	*Ofício Avaliador 13ª BENTOTEC 2022:* [Comprovante n° VI.10_Pág.53](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.10_Of%C3%ADcio%20Avaliador%2013%C2%AA%20BENTOTEC%202022%20(P%C3%A1g.%2053).pdf)
 
-	2021	Certificado_febrace_pre-avaliacao_2021
-		anexo: comprovante n° VI.12 (Pág. 51)
+**2021**	*Certificado AVALIADOR Jornada IC2021:* [Comprovante n° VI.11_Pág.54](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.11_Certificado%20AVALIADOR%20Jornada%20IC2021%20(P%C3%A1g.%2054).pdf)
 
-	2021	Certificado_febrace_avaliacao_2021
-		anexo: comprovante n° VI.13 (Pág. 52)
+**2021**	*Certificado_febrace_pre-avaliacao_2021:* [Comprovante n° VI.12_Pág.55](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.12_Certificado_febrace_pre-avaliacao_2021%20(P%C3%A1g.%2055).pdf)
 
-	2019	Certificado Jornada IC2019 – Avaliador
-		anexo: comprovante n° VI.14 (Pág. 53)
+**2021**	*Certificado_febrace_avaliacao_2021:* [Comprovante n° VI.13_Pág.56](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.13_Certificado_febrace_avaliacao_2021%20(P%C3%A1g.%2056).pdf)
 
-	2017	Certificado_febrace_avaliacao_2017
-		anexo: comprovante n° VI.15 (Pág. 54)
+**2019**	*Certificado Jornada IC2019 – Avaliador:* [Comprovante n° VI.14_Pág.57](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.14_Certificado%20Jornada%20IC2019%20-%20Avaliador%20(P%C3%A1g.%2057).pdf)
 
-	2013	Certificado_Avaliador FEBRACE 2013
-		anexo: comprovante n° VI.16 (Pág. 55)
+**2017**	*Certificado_febrace_avaliacao_2017:*	[Comprovante n° VI.15_Pág.58](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.15_Certificado_febrace_avaliacao_2017%20(P%C3%A1g.%2058).pdf)
+
+**2013**	*Certificado_Avaliador FEBRACE 2013:* [Comprovante n° VI.16_Pág.59](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.16_Certificado_Avaliador%20FEBRACE%202013%20(P%C3%A1g.%2059).pdf)
 	
-Como Apresentador Oral 
+## Como Apresentador Oral 
 
-2021	Certificado_Btsym2021_Brazil__135
-anexo: comprovante n° VI.17 (Pág. 56)
+**2021**	*Certificado_Btsym2021_Brazil_135:* [Comprovante n° VI.17_Pág.60](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.17_Certificado_Btsym2021_Brazil__135%20(P%C3%A1g.%2060).pdf)
  
-	2016	Certificado BTSym'16	
-anexo: comprovante n° VI.18 (Pág. 57)
+**2016**	*Certificado BTSym'16:* [Comprovante n° VI.18_Pág.61](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.18_Certificado%20BTSym'16%20(P%C3%A1g.%2061).pdf)
 
-Como Ouvinte / Autor e Co-autor de Trabalhos
+## Como Ouvinte / Autor e Co-autor de Trabalhos
 	
-	2021	Certificado II Forum AT jan2021
-anexo: comprovante n° VI.19 (Pág. 58)
+**2021**	*Certificado II Forum AT jan2021:* [Comprovante n° VI.19_Pág.62](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.19_Certificado%20II%20Forum%20AT%20jan2021%20(P%C3%A1g.%2062).pdf)
 
-2017	Certificado BTSym'17 - Semáforos Inteligentes_ Abordagem Alternativa
-		anexo: comprovante n° VI.20 (Pág. 59)
+**2017**	*Certificado BTSym'17 - Semáforos Inteligentes_ Abordagem Alternativa:* [Comprovante n° VI.20_Pág.63](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.20_Certificado%20BTSym'17%20-%20Sem%C3%A1foros%20Inteligentes_uma%20Abordagem%20Alternativa%20(P%C3%A1g.%2063).pdf)
 	
-2017	Certificado BTSym'17 - Mineração de dados e big data em logística: um estudo de caso. Anexo: comprovante n° VI.21 (Pág. 60)
+**2017**	*Certificado BTSym'17 - Mineração de dados e big data em logística: um estudo de caso. Anexo: comprovante n° VI.21_Pág.64](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.21_Certificado%20BTSym'17%20-%20Minera%C3%A7%C3%A3o%20de%20dados%20e%20big%20data%20em%20log%C3%ADstica_um%20estudo%20de%20caso%20(P%C3%A1g.%2064).pdf)
 
-2017 	Certificado BTSym'17 - Certificado de Participação
-		anexo: comprovante n° VI.22 (Pág. 61)
+**2017** 	*Certificado BTSym'17 - Certificado de Participação:* [Comprovante n° VI.22_Pág.65](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.22_Certificado%20BTSym'17%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2065).pdf)
 
-	2016	Certificado BTSym'16 - Certificado de Participação
-		anexo: comprovante n° VI.23 (Pág. 62)
-
- 
-
-
-
+**2016**	*Certificado BTSym'16 - Certificado de Participação:* [Comprovante n° VI.23_Pág.66(https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.23_Certificado%20BTSym'16%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2066).pdf)
 
