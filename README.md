@@ -51,8 +51,8 @@ Ou [Acesse a cópia neste github - anexo: Comprovante II_Pág.08 do Memorial imp
 # III. FORMAÇÃO ACADÊMICA 
 ## Mestrado
 	2011	ENGENHARIA DA INFORMAÇÃO (UFABC)
-            anexo: comprovante n° III.01 (Pág. 16)
+                [anexo: comprovante n° III.01_Pág.16](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/III.01%20-%20Diploma_MESTRADO%20(P%C3%A1g.%2016).pdf)
 ## Graduação 
 	2008    ENGENHARIA ELÉTRICA / Modalidade: Eletrônica
-            anexo: comprovante n° III.02 (Pág. 18)
+                [anexo: comprovante n° III.02_Pág.18]()
 
