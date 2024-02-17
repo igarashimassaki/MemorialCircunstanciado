@@ -212,4 +212,14 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 [Comprovante n° VII.01_Pág.67](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.01_Contrato%20MackPesquisa%20-%20Observat%C3%B3rio%20Mackenzie%20de%20precedentes%20obritat%C3%B3rios_Decis%C3%B5es%20judiciais%20vinculantes%20e%20seus%20efeitos%20na%20sociedade%20(P%C3%A1g.%2067).pdf)
 
+## Orientações
+**2023**	*Certificado Orientador Sophia F. Faria - PIBITI 22_23:* [Comprovante n° VII.02_Pág.68](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.02_Certificado%20Orientador%20Sophia%20F.%20Faria%20-%20PIBITI%2022_23%20%20(P%C3%A1g.%2068).pdf)
+
+**2023**	*Certificado Orientador Isabela F. Paranaiba - PIBITI 22_23:* [Comprovante n° VII.03_Pág.70](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.03_Certificado%20Orientador%20Isabela%20F.%20Paranaiba%20-%20PIBITI%2022_23%20%20(P%C3%A1g.%2070).pdf)
+
+**2022**	*Certificado Orientador Elisabete de F. Olimpio - PIBITI 21_22:* [Comprovante n° VII.04_Pág.72](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.04_Certificado%20Orientador%20Elisabete%20de%20F.%20Olimpio%20-%20PIBITI%2021_22%20(P%C3%A1g.%2072).pdf)
+
+**2020**	*Certificado Orientador Elisabete F. Olimpio - PIVIT_PIBITI 20_21:* [Comprovante n° VII.05_Pág.73](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.05_Certificado%20Orientador%20Elisabete%20F.%20Olimpio%20-%20PIVIT_PIBITI%2020_21%20(P%C3%A1g.%2073).pdf)
+
+**2018**	*Certificado Orientador Gabriela e Victor - PIBIC 2018-2019:* [Comprovante n° VII.06_Pág.74](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.06_Certificado%20Orientador%20GabrIela%20e%20Victor%20-%20PIBIC%202018-2019%20(P%C3%A1g.%2074).pdf)
 
