@@ -10,6 +10,8 @@
 </div>
 <div align="justify">
     Na sétima parte apresento minha experiência profissional com destaque para minha participação em um projeto de pesquisa multidisciplinar envolvendo o curso de engenharia, direito e computação do Mackenzie São Paulo; não obstante, também destaco minhas orientações de Trabalho de Conclusão de Curso - TCC em Engenharia de Produção e Eng. Civil, minha participação como presidente e membro de bancas TCC, como parecerista e membro do Núcleo Docente Estruturante (NDE) e Colegiado de cursos desde 2021. 
+</div>
+<div align="justify">   
     Na oitava e última parte, destaco a comprovação de publicação da patente “sensor para medidas de grandezas químicas, processo de fabricação de dispositivos sensores e uso do referido sensor para a medição do PH da água em sistemas microfluídicos”, assim como as comprovações de três premiações de TCC que tive a honra e a grata satisfação de orientar.
 </div>
 <div align="justify">
@@ -17,12 +19,14 @@
 </div>
 <div align="justify">
     Acredito que minha experiência pode contribuir e agregar valor ao seu curso; para o qual destaco meus conhecimentos de Linguagem de programação, inclusive para eletrônica embarcada, que podem contribuir também para contextualizar seus estudantes ao desafio da implantação de novas tecnologias, por exemplo, dispositivos de Internet das Coisas (do inglês Internet of Things – IoT) na busca por atualizar infraestruturas já disponíveis com a aquisição de novos equipamentos ou sistemas que precisam ser compatíveis aos já existentes.
-    
+</div>
+<div align="justify">
     Optei por apresentar apenas as referências que julguei necessárias para orientar a compreensão do leitor, uma vez que haverá possibilidade de interlocução, na qual mais esclarecimentos serão possíveis. Alguns autores foram apenas nominalmente citados, sem a referência completa, com o mesmo propósito. 
 </div> 
 <div align="justify">
     No presente momento, resido na cidade de Jundiaí-SP e estou em busca de recolocação no mercado de trabalho como professor universitário, após ter atuado, desde o ano de 2014, como professor adjunto mestre I, nos cursos de engenharia de produção e engenharia civil; e neste último ano também no curso de Administração de empresas (lecionando Gestão de Inovação, Sistemas de Informação aplicados à Gestão e Informática Básica para Administradores) na Universidade Presbiteriana Mackenzie Campinas – SP.  
-    
+</div>
+<div align="justify"> 
     Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
 </div>
