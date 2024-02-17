@@ -212,7 +212,7 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 [Comprovante n° VII.01_Pág.67](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.01_Contrato%20MackPesquisa%20-%20Observat%C3%B3rio%20Mackenzie%20de%20precedentes%20obritat%C3%B3rios_Decis%C3%B5es%20judiciais%20vinculantes%20e%20seus%20efeitos%20na%20sociedade%20(P%C3%A1g.%2067).pdf)
 
-## Orientações
+## Orientações (Iniciação Científica e Tecnológica)
 **2023**	*Certificado Orientador Sophia F. Faria - PIBITI 22_23:* [Comprovante n° VII.02_Pág.68](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.02_Certificado%20Orientador%20Sophia%20F.%20Faria%20-%20PIBITI%2022_23%20%20(P%C3%A1g.%2068).pdf)
 
 **2023**	*Certificado Orientador Isabela F. Paranaiba - PIBITI 22_23:* [Comprovante n° VII.03_Pág.70](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.03_Certificado%20Orientador%20Isabela%20F.%20Paranaiba%20-%20PIBITI%2022_23%20%20(P%C3%A1g.%2070).pdf)
@@ -223,3 +223,66 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 **2018**	*Certificado Orientador Gabriela e Victor - PIBIC 2018-2019:* [Comprovante n° VII.06_Pág.74](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.06_Certificado%20Orientador%20GabrIela%20e%20Victor%20-%20PIBIC%202018-2019%20(P%C3%A1g.%2074).pdf)
 
+## Presidente (Orientador) e Membro (Convidado) de Bancas TCC
+	
+2023	Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE
+Comprovante n° VII.07 (Pág. 71)
+	
+2023	Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE
+Comprovante n° VII.07 (Pág. 71)
+
+2022	Declaração Bancas TCC 2022.2 - Membro e PRESIDENTE
+Comprovante n° VII.08 (Pág. 73)
+
+2022	Declaração Bancas TCC 2021.2 - PRESIDENTE
+Comprovante n° VII.09 (Pág. 75)
+
+2021	Declaração Bancas TCC 2021.1 - PRESIDENTE
+Comprovante n° VII.10 (Pág. 76)
+
+2021	Declaração Bancas TCC 2021.2 - 1de2 – Membro
+Comprovante n° VII.11 (Pág. 77)
+
+2021	Declaração Bancas TCC 2021.2 - 2de2 – Membro
+Comprovante n° VII.12 (Pág. 78)
+
+2021	Declaração Bancas TCC 2021.1 – Membro
+Comprovante n° VII.13 (Pág. 79)
+
+2020	Declaração Bancas TCC 2020.2 – Membro
+Comprovante n° VII.14 (Pág. 80)
+
+2020	Declaração Bancas TCC 2020.2 - PRESIDENTE
+Comprovante n° VII.15 (Pág. 81)
+
+
+## Parecerista
+
+**2023**	*PARECERISTA PIBIC 2023:* [Comprovante n° VII.16_Pág.]()
+
+**2021**	*Certificado PARECERISTA PIBIC_PIVIC 2021:* [Comprovante n° VII.17_Pág.]()
+
+## Membro NDE e Colegiado de Cursos
+
+**2021 a 2023** *Comprovação Participação NDE e Colegiados ENGENHARIA:* [Comprovante n° VII.18_Pág.]()
+
+# VIII. INOVAÇÕES E PREMIAÇÕES 
+
+## Patentes: 
+<div align="left"> 	
+RP  BR 10 2016 017191-1 B1 – Sensor para medição de PH em sistemas microfluídicos
+</div>
+[Comprovante n° VIII.01_Pág.]()
+
+## Outras Premiações 
+
+- ***CERTIFICADO 2º LUGAR PREMIO TCC 2018 - ORIENTADOR*** 
+[Comprovante n° VIII.02_Pág.]() 
+
+- ***CERTIFICADO 1º LUGAR PREMIO TCC 2020 – ORIENTADOR***
+[Comprovante nº VIII.03_Pág.]()
+
+- ***CERTIFICADO 1º LUGAR PREMIO TCC 2022.2 – ORIENTADOR***
+[Comprovante nº VIII.04_Pág.]()
+
+	
