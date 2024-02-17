@@ -85,13 +85,16 @@ Ou [Acesse a cópia neste github - anexo: Comprovante II_Pág.08 do Memorial imp
 <div align="left"> 
 STOPIGLIA, Felipe Silveira et al. The Integration of Alteryx® and Microsoft Power BI®: A Case Study. In: Brazilian Technology Symposium. Cham: Springer International Publishing, 2021. p. 229-235.
 </div>
+
 [comprovante n° V.01_Pág.29](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.01%20-%20The%20Integration%20of%20Alteryx%C2%AE%20and%20Microsoft%20Power%20BI%C2%AE_%20A%20Case%20Study%20_%20SpringerLink%20(P%C3%A1g.%2029).pdf)
 
 **2020**	
 <div align="left"> 
 IINUMA, Nilton M.; DE O. IGARASHI, Massaki. Phone calls speech-to-text: A comparison between APIs for the portuguese language. In: Proceedings of the 5th Brazilian Technology Symposium: Emerging Trends, Issues, and Challenges in the Brazilian Technology, Volume 2. Springer International Publishing, 2021. p. 437-445.
-[comprovante n° V.02_Pág.30](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.02%20-%20Phone%20Calls%20Speech-to-Text_%20A%20Comparison%20Between%20APIs%20for%20the%20Portuguese%20Language%20_%20SpringerLink%20(P%C3%A1g.%2030).pdf)
 </div>
+
+[comprovante n° V.02_Pág.30](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.02%20-%20Phone%20Calls%20Speech-to-Text_%20A%20Comparison%20Between%20APIs%20for%20the%20Portuguese%20Language%20_%20SpringerLink%20(P%C3%A1g.%2030).pdf)
+
 
 
 2019	DE O. IGARASHI, Massaki; SARTORELLI, Paulo E.; DE LIMA, Mariana ZT. Twenty years survey of big data: Definition, concepts, and applications in engineering. In: Brazilian Technology Symposium. Cham: Springer International Publishing, 2019. p. 509-517.
