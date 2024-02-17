@@ -225,36 +225,25 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 ## Presidente (Orientador) e Membro (Convidado) de Bancas TCC
 	
-2023	Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE
-Comprovante n° VII.07 (Pág. 71)
+**2023**	*Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.]()
 	
-2023	Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE
-Comprovante n° VII.07 (Pág. 71)
+**2023**	*Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.]()
 
-2022	Declaração Bancas TCC 2022.2 - Membro e PRESIDENTE
-Comprovante n° VII.08 (Pág. 73)
+**2022**	*Declaração Bancas TCC 2022.2 - Membro e PRESIDENTE:* [Comprovante n° VII.08_Pág.]()
 
-2022	Declaração Bancas TCC 2021.2 - PRESIDENTE
-Comprovante n° VII.09 (Pág. 75)
+**2022**	*Declaração Bancas TCC 2021.2 - PRESIDENTE:* [Comprovante n° VII.09_Pág.]()
 
-2021	Declaração Bancas TCC 2021.1 - PRESIDENTE
-Comprovante n° VII.10 (Pág. 76)
+**2021*		*Declaração Bancas TCC 2021.1 - PRESIDENTE:* [Comprovante n° VII.10_Pág.]()
 
-2021	Declaração Bancas TCC 2021.2 - 1de2 – Membro
-Comprovante n° VII.11 (Pág. 77)
+**2021**	*Declaração Bancas TCC 2021.2 - 1de2 – Membro:* [Comprovante n° VII.11_Pág.]
 
-2021	Declaração Bancas TCC 2021.2 - 2de2 – Membro
-Comprovante n° VII.12 (Pág. 78)
+**2021**	*Declaração Bancas TCC 2021.2 - 2de2 – Membro:* [Comprovante n° VII.12_Pág.]()
 
-2021	Declaração Bancas TCC 2021.1 – Membro
-Comprovante n° VII.13 (Pág. 79)
+**2021**	*Declaração Bancas TCC 2021.1 – Membro:* [Comprovante n° VII.13_Pág.]()
 
-2020	Declaração Bancas TCC 2020.2 – Membro
-Comprovante n° VII.14 (Pág. 80)
+**2020**	*Declaração Bancas TCC 2020.2 – Membro:* [Comprovante n° VII.14_Pág.]()
 
-2020	Declaração Bancas TCC 2020.2 - PRESIDENTE
-Comprovante n° VII.15 (Pág. 81)
-
+**2020**	*Declaração Bancas TCC 2020.2 - PRESIDENTE:* [Comprovante n° VII.15_Pág.]
 
 ## Parecerista
 
