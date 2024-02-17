@@ -30,7 +30,8 @@
     Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
 </div>
-<div align="justify"> __________________________________________________________________________________________________________________________________________________________________________
+<div align="justify"> 
+________________________________________________________________________________________________________________________________________________________
 </div>
     <div align="right">Jundiaí, fevereiro de 2024. 
     
