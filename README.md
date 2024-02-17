@@ -48,4 +48,11 @@ E-mail: 	   massaki.igarashi@gmail.com
 
 Ou [Acesse a cópia neste github - anexo: Comprovante II_Pág.08 do Memorial impresso](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/II.%20Curr%C3%ADculo%20Lattes%20Massaki%20-%209359934526855676.pdf)
 
+# III. FORMAÇÃO ACADÊMICA 
+## Mestrado
+	2011	ENGENHARIA DA INFORMAÇÃO (UFABC)
+            anexo: comprovante n° III.01 (Pág. 16)
+## Graduação 
+	2008    ENGENHARIA ELÉTRICA / Modalidade: Eletrônica
+            anexo: comprovante n° III.02 (Pág. 18)
 
