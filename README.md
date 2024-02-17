@@ -31,10 +31,8 @@
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
 </div>
 
-<div align="rigth">
-    Jundiaí, fevereiro de 2024.
-    
-    Massaki de Oliveira Igarashi.
+<div align="rigth">Jundiaí, fevereiro de 2024.
+Massaki de Oliveira Igarashi.
 </div>
 
 # I. DADOS PESSOAIS 
