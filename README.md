@@ -97,26 +97,54 @@ IINUMA, Nilton M.; DE O. IGARASHI, Massaki. Phone calls speech-to-text: A compar
 
 
 
-2019	DE O. IGARASHI, Massaki; SARTORELLI, Paulo E.; DE LIMA, Mariana ZT. Twenty years survey of big data: Definition, concepts, and applications in engineering. In: Brazilian Technology Symposium. Cham: Springer International Publishing, 2019. p. 509-517.
-	anexo: comprovante n° V.03 (Pág. 31)
+**2019**	
+<div align="left"> 
+DE O. IGARASHI, Massaki; SARTORELLI, Paulo E.; DE LIMA, Mariana ZT. Twenty years survey of big data: Definition, concepts, and applications in engineering. In: Brazilian Technology Symposium. Cham: Springer International Publishing, 2019. p. 509-517.
+</div>
 
-2021	Proceedings of the 7th Brazilian Technology Symposium (BTSym’21) - eBook ISBN 978-3-031-08545-1 / Print ISBN 978-3-031-08544-4
-	anexo: comprovante n° V.04 (Pág. 32)
+[Comprovante n° V.03_Pág.31](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.03%20-%20Twenty%20Years%20Survey%20of%20Big%20Data_%20Definition%2C%20Concepts%2C%20and%20Applications%20in%20Engineering%20_%20SpringerLink%20(P%C3%A1g.%2031).pdf)
 
-2019	Certificado BTSym'19 - ID_212
-	anexo: comprovante n° V.05 (Pág. 33)
+**2021**	
+<div align="left"> 
+Proceedings of the 7th Brazilian Technology Symposium (BTSym’21) - eBook ISBN 978-3-031-08545-1 / Print ISBN 978-3-031-08544-4
+</div>
 
-2019	Certificado BTSym'19 - ID_209
-	anexo: comprovante n° V.06 (Pág. 34)
+[comprovante n° V.04_Pág.32](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.04_eBook_Proceedings%20of%20the%207th%20Brazilian%20Technology%20Symposium%20(BTSym%E2%80%9921)%20(P%C3%A1g.%2032).pdf)
 
-2019	Certificado BTSym'19 - ID_113
-	anexo: comprovante n° V.07 (Pág. 35)
+**2019**	
+<div align="left"> 
+Certificado BTSym'19 - ID_212
+</div>
 
-2018	Music learning machine: Um Relato De Experiência No Aprendizado De Linguagem De Programação – COBENGE 2018
-	anexo: comprovante n° V.08 (Pág. 36)
+[Comprovante n° V.05_Pág.33](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.05_Certificado%20BTSym'19%20-%20ID_212%20(P%C3%A1g.%2033).pdf)
 
-2018	Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
-	anexo: comprovante n° V.09 (Pág. 37)
+**2019**	
+<div align="left"> 
+Certificado BTSym'19 - ID_209
+</div>
+	
+[Comprovante n° V.06_Pág.34](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.06_Certificado%20BTSym'19%20-%20ID_209%20(P%C3%A1g.%2034).pdf)
+
+**2019**	
+<div align="left"> 
+Certificado BTSym'19 - ID_113
+</div>
+	
+[Comprovante n° V.07_Pág.35](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.07_Certificado%20BTSym'19%20-%20ID_113%20(P%C3%A1g.%2035).pdf)
+
+**2018**
+<div align="left"> 
+Music learning machine: Um Relato De Experiência No Aprendizado De Linguagem De Programação – COBENGE 2018
+</div>
+	
+[Comprovante n° V.08_Pág.36](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.08_Music%20learning%20machine_Um%20relato%20de%20experi%C3%AAncia%20no%20aprendizado%20de%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20-%20COBENGE%202018%20(P%C3%A1g.%2036).pdf)
+
+**2018**
+<div align="left"> 
+Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
+</div>
+	
+[Comprovante n° V.09_Pág.37](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.09_ENSINO%20ATIVO%20E%20INCLUSIVO%20NA%20ENGENHARIA%20UM%20RELATO%20DE%20CASO%20-%20COBENGE%202018%20(P%C3%A1g.%2037).pdf)
 
 
 
