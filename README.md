@@ -203,3 +203,10 @@ Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
 
 **2016**	*Certificado BTSym'16 - Certificado de Participação:* [Comprovante n° VI.23_Pág.66(https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.23_Certificado%20BTSym'16%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2066).pdf)
 
+# VII. EXPERIÊNCIAS PROFISSIONAIS 
+## Participação em projetos de pesquisa 
+**2018**
+<div align="justify"> 
+Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Decisões judiciais vinculantes e seus efeitos na sociedade
+</div>
+[Comprovante n° VII.01_Pág.67](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.01_Contrato%20MackPesquisa%20-%20Observat%C3%B3rio%20Mackenzie%20de%20precedentes%20obritat%C3%B3rios_Decis%C3%B5es%20judiciais%20vinculantes%20e%20seus%20efeitos%20na%20sociedade%20(P%C3%A1g.%2067).pdf)
