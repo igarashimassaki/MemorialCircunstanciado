@@ -30,8 +30,9 @@
     Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
 </div>
-____________________________________________________________________________________________________________________________________________________________________________________
-<div align="right">Jundiaí, fevereiro de 2024. 
+<div align="justify"> __________________________________________________________________________________________________________________________________________________________________________
+</div>
+    <div align="right">Jundiaí, fevereiro de 2024. 
     
 Massaki de Oliveira Igarashi.</div>
 
