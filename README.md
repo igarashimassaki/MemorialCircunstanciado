@@ -38,11 +38,11 @@ ________________________________________________________________________________
 Massaki de Oliveira Igarashi.</div>
 
 # I. DADOS PESSOAIS 
-Nome: 		   Massaki de Oliveira Igarashi
+**Nome:** 		   Massaki de Oliveira Igarashi
 
-Endereço: 	   Ponte São João – Jundiaí - SP
+**Endereço:** 	   Ponte São João – Jundiaí - SP
 
-E-mail: 	   massaki.igarashi@gmail.com
+**E-mail:** 	   massaki.igarashi@gmail.com
 
 # II. CURRÍCULO LATTES 
 [Clique para acessar o lattes no site do CNPQ](https://lattes.cnpq.br/9359934526855676)
