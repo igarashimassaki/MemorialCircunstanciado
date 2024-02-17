@@ -32,7 +32,6 @@
 </div>
 
 <div align="rigth">
-
     Jundiaí, fevereiro de 2024.
     
     Massaki de Oliveira Igarashi.
