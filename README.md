@@ -57,5 +57,35 @@ Ou [Acesse a cópia neste github - anexo: Comprovante II_Pág.08 do Memorial imp
 2008    ENGENHARIA ELÉTRICA / Modalidade: Eletrônica
 [anexo: comprovante n° III.02_Pág.18](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/III.02%20-%20DIPLOMA%20GRADUA%C3%87%C3%83O%20(P%C3%A1g.%2018).pdf)
 
+# IV. FORMAÇÃO COMPLEMENTAR 
+## Cursos de extensão
+
+2023	Participação Formação MackSTLR 16.08.23
+		anexo: comprovante n° IV.01 (Pág. 20)
+
+2023	Participação do VII Forum AT - jul2023
+		anexo: comprovante n° IV.02 (Pág. 21)
+
+2023	Certificado Treinamento Laser FABLAB
+		anexo: comprovante n° IV..03 (Pág. 22)
+
+2022	CERTIFICADO IV Forum AT jan2022
+		anexo: comprovante n° IV.04 (Pág. 23)
+
+2021	Certificados_MiniCurso_MPS FESTO
+		anexo: comprovante n° IV.05 (Pág. 24)
+	
+2021	Certificado III Forum AT jul2021
+		anexo: comprovante n° IV.06 (Pág. 25)
+
+2020	Certificado Participação do I Forum AT ago2020
+		anexo: comprovante n° IV.07 (Pág. 26)
+
+2020	CERTIFICADO Webinar SCOPUS Mackenzie - Empodere sua pesquisa e revisão
+		anexo: comprovante n° IV.08 (Pág. 27)
+
+2020	CERTIFICADO ERP Lab for Industry 4.0 - LUCAS NULLE - mar2020
+		anexo: comprovante n° IV.09 (Pág. 28)
+
 
 
