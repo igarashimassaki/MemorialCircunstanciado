@@ -51,10 +51,10 @@ Ou [Acesse a cópia neste github - anexo: Comprovante II_Pág.08 do Memorial imp
 
 # III. FORMAÇÃO ACADÊMICA 
 ## Mestrado
-2011	ENGENHARIA DA INFORMAÇÃO (UFABC)
+**2011**	*ENGENHARIA DA INFORMAÇÃO (UFABC)*
 [anexo: comprovante n° III.01_Pág.16](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/III.01%20-%20Diploma_MESTRADO%20(P%C3%A1g.%2016).pdf)
 ## Graduação 
-2008    ENGENHARIA ELÉTRICA / Modalidade: Eletrônica
+**2008**    	*ENGENHARIA ELÉTRICA / Modalidade: Eletrônica(
 [anexo: comprovante n° III.02_Pág.18](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/III.02%20-%20DIPLOMA%20GRADUA%C3%87%C3%83O%20(P%C3%A1g.%2018).pdf)
 
 # IV. FORMAÇÃO COMPLEMENTAR 
@@ -77,6 +77,43 @@ Ou [Acesse a cópia neste github - anexo: Comprovante II_Pág.08 do Memorial imp
 **2020**	*CERTIFICADO Webinar SCOPUS Mackenzie - Empodere sua pesquisa e revisão:*[comprovante n° IV.08_Pág.27](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/IV.08_CERTIFICADO%20Webinar%20SCOPUS%20Mackenzie%20-%20Empodere%20sua%20pesquisa%20e%20revis%C3%A3o%20(P%C3%A1g.%2027).pdf)
 
 **2020**	*CERTIFICADO ERP Lab for Industry 4.0 - LUCAS NULLE - mar2020:*[comprovante n° IV.09_Pág.28](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/IV.09_CERTIFICADO%20ERP%20Lab%20for%20Industry%204.0%20-%20LUCAS%20NULLE%20-%20mar2020%20(P%C3%A1g.%2028).pdf)
+
+# V. PUBLICAÇÕES 
+
+**2021**
+
+<div align="left"> 
+STOPIGLIA, Felipe Silveira et al. The Integration of Alteryx® and Microsoft Power BI®: A Case Study. In: Brazilian Technology Symposium. Cham: Springer International Publishing, 2021. p. 229-235.
+</div>
+[comprovante n° V.01_Pág.29](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.01%20-%20The%20Integration%20of%20Alteryx%C2%AE%20and%20Microsoft%20Power%20BI%C2%AE_%20A%20Case%20Study%20_%20SpringerLink%20(P%C3%A1g.%2029).pdf)
+
+**2020**	
+<div align="left"> 
+IINUMA, Nilton M.; DE O. IGARASHI, Massaki. Phone calls speech-to-text: A comparison between APIs for the portuguese language. In: Proceedings of the 5th Brazilian Technology Symposium: Emerging Trends, Issues, and Challenges in the Brazilian Technology, Volume 2. Springer International Publishing, 2021. p. 437-445.
+[comprovante n° V.02_Pág.30](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.02%20-%20Phone%20Calls%20Speech-to-Text_%20A%20Comparison%20Between%20APIs%20for%20the%20Portuguese%20Language%20_%20SpringerLink%20(P%C3%A1g.%2030).pdf)
+</div>
+
+
+2019	DE O. IGARASHI, Massaki; SARTORELLI, Paulo E.; DE LIMA, Mariana ZT. Twenty years survey of big data: Definition, concepts, and applications in engineering. In: Brazilian Technology Symposium. Cham: Springer International Publishing, 2019. p. 509-517.
+	anexo: comprovante n° V.03 (Pág. 31)
+
+2021	Proceedings of the 7th Brazilian Technology Symposium (BTSym’21) - eBook ISBN 978-3-031-08545-1 / Print ISBN 978-3-031-08544-4
+	anexo: comprovante n° V.04 (Pág. 32)
+
+2019	Certificado BTSym'19 - ID_212
+	anexo: comprovante n° V.05 (Pág. 33)
+
+2019	Certificado BTSym'19 - ID_209
+	anexo: comprovante n° V.06 (Pág. 34)
+
+2019	Certificado BTSym'19 - ID_113
+	anexo: comprovante n° V.07 (Pág. 35)
+
+2018	Music learning machine: Um Relato De Experiência No Aprendizado De Linguagem De Programação – COBENGE 2018
+	anexo: comprovante n° V.08 (Pág. 36)
+
+2018	Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
+	anexo: comprovante n° V.09 (Pág. 37)
 
 
 
