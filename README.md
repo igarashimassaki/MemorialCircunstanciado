@@ -1,9 +1,9 @@
 # Memorial Circunstanciado - Prof. Massaki de O. Igarashi
 
 <div align="justify">
-    O presente memorial está dividido em oito partes.  
-    Na primeira, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
-    Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos 5 anos. 
+    O presente memorial está dividido em oito partes. \n
+    Na primeira, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I). \n
+    Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos 5 anos. \n
     Não menos importante, também apresento minhas participações em congressos, workshops etc. Ressalto ainda, na sexta parte, minha experiência como organizador, como avaliador e as apresentações orais em congressos; assim como participação de ouvinte, autor e co-autor de trabalhos.
     Na sétima parte apresento minha experiência profissional com destaque para minha participação em um projeto de pesquisa multidisciplinar envolvendo o curso de engenharia, direito e computação do Mackenzie São Paulo; não obstante, também destaco minhas orientações de Trabalho de Conclusão de Curso - TCC em Engenharia de Produção e Eng. Civil, minha participação como presidente e membro de bancas TCC, como parecerista e membro do Núcleo Docente Estruturante (NDE) e Colegiado de cursos desde 2021. 
     Na oitava e última parte, destaco a comprovação de publicação da patente “sensor para medidas de grandezas químicas, processo de fabricação de dispositivos sensores e uso do referido sensor para a medição do PH da água em sistemas microfluídicos”, assim como as comprovações de três premiações de TCC que tive a honra e a grata satisfação de orientar.
