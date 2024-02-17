@@ -31,6 +31,7 @@
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
 </div>
 <div align="justify">
+     
 </div>
 <div align="right">Jundiaí, fevereiro de 2024. 
     
