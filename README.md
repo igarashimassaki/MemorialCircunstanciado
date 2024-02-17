@@ -10,7 +10,6 @@
 </div>
 <div align="justify">
     Na sétima parte apresento minha experiência profissional com destaque para minha participação em um projeto de pesquisa multidisciplinar envolvendo o curso de engenharia, direito e computação do Mackenzie São Paulo; não obstante, também destaco minhas orientações de Trabalho de Conclusão de Curso - TCC em Engenharia de Produção e Eng. Civil, minha participação como presidente e membro de bancas TCC, como parecerista e membro do Núcleo Docente Estruturante (NDE) e Colegiado de cursos desde 2021. 
-    
     Na oitava e última parte, destaco a comprovação de publicação da patente “sensor para medidas de grandezas químicas, processo de fabricação de dispositivos sensores e uso do referido sensor para a medição do PH da água em sistemas microfluídicos”, assim como as comprovações de três premiações de TCC que tive a honra e a grata satisfação de orientar.
 </div>
 <div align="justify">
