@@ -42,4 +42,4 @@ Endereço: 	   Ponte São João – Jundiaí - SP
 E-mail: 	   massaki.igarashi@gmail.com
 # II. CURRÍCULO LATTES 
 (Clique para acessar o lattes no site do CNPQ)[https://lattes.cnpq.br/9359934526855676]
-anexo: comprovante n° II (Pág. 08)
+Ou (Acesse a cópia neste github - anexo: comprovante n° II_Pág. 08 do Memorial impresso)
