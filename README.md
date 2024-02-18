@@ -1,6 +1,5 @@
-## $${\color{darkblue}Memorial Circunstanciado - Prof. Massaki de O. Igarashi}$$
-
-# Memorial Circunstanciado - Prof. Massaki de O. Igarashi
+# $${\color{darkblue}Memorial_Circunstanciado}$$
+## Prof. Massaki de O. Igarashi
 
 <div align="justify">
     O presente memorial está dividido em oito partes. 
