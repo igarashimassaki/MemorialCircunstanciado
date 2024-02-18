@@ -1,7 +1,7 @@
 # $${\color{darkblue}Memorial_-Circunstanciado}$$
 <div align="center">
 
-## Prof. Massaki de O. Igarashi (e-mail: massaki.igarashi@gmail.com)
+### Prof. Massaki de O. Igarashi (e-mail: massaki.igarashi@gmail.com)
 
 </div> 
 <div align="justify">
