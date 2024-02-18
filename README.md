@@ -1,5 +1,5 @@
 # $${\color{darkblue}Memorial_-Circunstanciado}$$
-## Prof. Massaki de O. Igarashi
+## Prof. Massaki de O. Igarashi [**E-mail:**](mailto: massaki.igarashi@gmail.com)
 
 <div align="justify">
     O presente memorial está dividido em oito partes. 
@@ -42,8 +42,6 @@ Massaki de Oliveira Igarashi.</div>
 **Nome:** 		   Massaki de Oliveira Igarashi
 
 **Endereço:** 	   Ponte São João – Jundiaí - SP
-
-**E-mail:** 	   massaki.igarashi@gmail.com
 
 # II. CURRÍCULO LATTES 
 [Clique para acessar o lattes no site do CNPQ](https://lattes.cnpq.br/9359934526855676)
