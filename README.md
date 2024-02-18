@@ -195,13 +195,13 @@ Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
 	
 **2021**	*Certificado II Forum AT jan2021:* [Comprovante n° VI.19_Pág.62](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.19_Certificado%20II%20Forum%20AT%20jan2021%20(P%C3%A1g.%2062).pdf)
 
-**2017**	*Certificado BTSym'17 - Semáforos Inteligentes_ Abordagem Alternativa:* [Comprovante n° VI.20_Pág.63](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.20_Certificado%20BTSym'17%20-%20Sem%C3%A1foros%20Inteligentes_uma%20Abordagem%20Alternativa%20(P%C3%A1g.%2063).pdf)
+**2017**	*Certificado BTSym'17 - Semáforos Inteligentes_ Abordagem Alternativa:*  [Comprovante n° VI.20_Pág.63](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.20_Certificado%20BTSym'17%20-%20Sem%C3%A1foros%20Inteligentes_uma%20Abordagem%20Alternativa%20(P%C3%A1g.%2063).pdf)
 	
-**2017**	*Certificado BTSym'17 - Mineração de dados e big data em logística: um estudo de caso. Anexo: comprovante n° VI.21_Pág.64](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.21_Certificado%20BTSym'17%20-%20Minera%C3%A7%C3%A3o%20de%20dados%20e%20big%20data%20em%20log%C3%ADstica_um%20estudo%20de%20caso%20(P%C3%A1g.%2064).pdf)
+**2017**	*Certificado BTSym'17 - Mineração de dados e big data em logística: um estudo de caso:*  [Comprovante n° VI.21_Pág.64](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.21_Certificado%20BTSym'17%20-%20Minera%C3%A7%C3%A3o%20de%20dados%20e%20big%20data%20em%20log%C3%ADstica_um%20estudo%20de%20caso%20(P%C3%A1g.%2064).pdf)
 
-**2017** 	*Certificado BTSym'17 - Certificado de Participação:* [Comprovante n° VI.22_Pág.65](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.22_Certificado%20BTSym'17%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2065).pdf)
+**2017** 	*Certificado BTSym'17 - Certificado de Participação:*  [Comprovante n° VI.22_Pág.65](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.22_Certificado%20BTSym'17%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2065).pdf)
 
-**2016**	*Certificado BTSym'16 - Certificado de Participação:* [Comprovante n° VI.23_Pág.66(https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.23_Certificado%20BTSym'16%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2066).pdf)
+**2016**	*Certificado BTSym'16 - Certificado de Participação:*  [Comprovante n° VI.23_Pág.66](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.23_Certificado%20BTSym'16%20-%20Certificado%20de%20Participa%C3%A7%C3%A3o%20(P%C3%A1g.%2066).pdf)
 
 # VII. EXPERIÊNCIAS PROFISSIONAIS 
 ## Participação em projetos de pesquisa 
