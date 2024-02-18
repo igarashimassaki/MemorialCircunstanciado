@@ -266,12 +266,12 @@ RP  BR 10 2016 017191-1 B1 – Sensor para medição de PH em sistemas microflu�
 ## Outras Premiações 
 
 - ***CERTIFICADO 2º LUGAR PREMIO TCC 2018 - ORIENTADOR*** 
-[Comprovante n° VIII.02_Pág.]) 
+[Comprovante n° VIII.02_Pág.95](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VIII.02%20-%202018.2_CERTIFICADO%202%C2%BA%20LUGAR%20PREMIO%20TCC%202018%20-%20ORIENTADOR%20%20(P%C3%A1g.%2095).pdf) 
 
 - ***CERTIFICADO 1º LUGAR PREMIO TCC 2020 – ORIENTADOR***
-[Comprovante nº VIII.03_Pág.]()
+[Comprovante nº VIII.03_Pág.96](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VIII.03%20-%202020.1_CERTIFICADO%201%C2%BA%20LUGAR%20PREMIO%20TCC%202020%20-%20ORIENTADOR%20%20(P%C3%A1g.%2096).pdf)
 
 - ***CERTIFICADO 1º LUGAR PREMIO TCC 2022.2 – ORIENTADOR***
-[Comprovante nº VIII.04_Pág.]()
+[Comprovante nº VIII.04_Pág.97](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VIII.04%20-%202022.2_CERTIFICADO%201%C2%BA%20LUGAR%20PREMIO%20TCC%202022.2%20%E2%80%93%20ORIENTADOR%20(P%C3%A1g.%2097).pdf)
 
 	
