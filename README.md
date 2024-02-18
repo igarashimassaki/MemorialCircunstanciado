@@ -1,4 +1,5 @@
 # $${\color{darkblue}Memorial_-Circunstanciado}$$
+# $\textcolor{darkblue}{Memorial\ Circunstanciado}$
 <div align="center">
 
 ### Prof. Massaki de O. Igarashi (e-mail: massaki.igarashi@gmail.com)
