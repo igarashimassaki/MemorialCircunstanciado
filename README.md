@@ -225,35 +225,35 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 ## Presidente (Orientador) e Membro (Convidado) de Bancas TCC
 	
-**2023**	*Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.75_0]()
+**2023**	*Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.75](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.07_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202023.2%20-%20Membro%20e%20PRESIDENTE%20(P%C3%A1g.%2075).pdf)
 	
-**2023**	*Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.]()
+**2023**	*Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE:* [Comprovante n° VII.08_Pág.77](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.08_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202023.1%20-%20Membro%20e%20PRESIDENTE%20(P%C3%A1g.%2077).pdf)
 
-**2022**	*Declaração Bancas TCC 2022.2 - Membro e PRESIDENTE:* [Comprovante n° VII.08_Pág.]()
+**2022**	*Declaração Bancas TCC 2022.2 - Membro e PRESIDENTE:* [Comprovante n° VII.09_Pág.79](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.09_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202022.2%20-%20Membro%20e%20PRESIDENTE%20(P%C3%A1g.%2079).pdf)
 
-**2022**	*Declaração Bancas TCC 2021.2 - PRESIDENTE:* [Comprovante n° VII.09_Pág.]()
+**2022**	*Declaração Bancas TCC 2021.2 - PRESIDENTE:* [Comprovante n° VII.10_Pág.80](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.10_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.2%20-%20PRESIDENTE%20(P%C3%A1g.%2080).pdf)
 
-**2021*		*Declaração Bancas TCC 2021.1 - PRESIDENTE:* [Comprovante n° VII.10_Pág.]()
+**2021*		*Declaração Bancas TCC 2021.1 - PRESIDENTE:* [Comprovante n° VII.11_Pág.81](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.11_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.1%20-%20PRESIDENTE%20(P%C3%A1g.%2081).pdf)
 
-**2021**	*Declaração Bancas TCC 2021.2 - 1de2 – Membro:* [Comprovante n° VII.11_Pág.]()
+**2021**	*Declaração Bancas TCC 2021.2 - 1de2 – Membro:* [Comprovante n° VII.12_Pág.82](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.12_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.2%20-%201de2%20-%20Membro%20(P%C3%A1g.%2082).pdf)
 
-**2021**	*Declaração Bancas TCC 2021.2 - 2de2 – Membro:* [Comprovante n° VII.12_Pág.]()
+**2021**	*Declaração Bancas TCC 2021.2 - 2de2 – Membro:* [Comprovante n° VII.13_Pág.83](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.13_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.2%20-%202de2%20-%20Membro%20(P%C3%A1g.%2083).pdf)
 
-**2021**	*Declaração Bancas TCC 2021.1 – Membro:* [Comprovante n° VII.13_Pág.]()
+**2021**	*Declaração Bancas TCC 2021.1 – Membro:* [Comprovante n° VII.14_Pág.84](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.14_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202021.1%20-%20Membro%20(P%C3%A1g.%2084).pdf)
 
-**2020**	*Declaração Bancas TCC 2020.2 – Membro:* [Comprovante n° VII.14_Pág.]()
+**2020**	*Declaração Bancas TCC 2020.2 – Membro:* [Comprovante n° VII.15_Pág.85](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.15_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202020.2%20-%20Membro%20(P%C3%A1g.%2085).pdf)
 
-**2020**	*Declaração Bancas TCC 2020.2 - PRESIDENTE:* [Comprovante n° VII.15_Pág.]
+**2020**	*Declaração Bancas TCC 2020.2 - PRESIDENTE:* [Comprovante n° VII.16_Pág.86](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.16_Declara%C3%A7%C3%A3o%20Bancas%20TCC%202020.2%20-%20PRESIDENTE%20%20(P%C3%A1g.%2086).pdf)
 
 ## Parecerista
 
-**2023**	*PARECERISTA PIBIC 2023:* [Comprovante n° VII.16_Pág.]()
+**2023**	*PARECERISTA PIBIC 2023:* [Comprovante n° VII.17_Pág.87](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.17_PARECERISTA%20PIBIC%202023%20(P%C3%A1g.%2087).pdf)
 
-**2021**	*Certificado PARECERISTA PIBIC_PIVIC 2021:* [Comprovante n° VII.17_Pág.]()
+**2021**	*Certificado PARECERISTA PIBIC_PIVIC 2021:* [Comprovante n° VII.18_Pág.88](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.18_Certificado%20PARECERISTA%20PIBIC_PIVIC%202021%20(P%C3%A1g.%2088).pdf)
 
 ## Membro NDE e Colegiado de Cursos
 
-**2021 a 2023** *Comprovação Participação NDE e Colegiados ENGENHARIA:* [Comprovante n° VII.18_Pág.]()
+**2021 a 2023** *Comprovação Participação NDE e Colegiados ENGENHARIA:* [Comprovante n° VII.19_Pág.89](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VII.19_Comprova%C3%A7%C3%A3o%20Participa%C3%A7%C3%A3o%20NDE%20e%20Colegiados%20ENGENHARIA%20(P%C3%A1g.%2089).pdf)
 
 # VIII. INOVAÇÕES E PREMIAÇÕES 
 
@@ -261,12 +261,12 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 <div align="left"> 	
 RP  BR 10 2016 017191-1 B1 – Sensor para medição de PH em sistemas microfluídicos
 </div>
-[Comprovante n° VIII.01_Pág.]()
+[Comprovante n° VIII.01_Pág.94](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VIII.01_RP%20%20BR%2010%202016%20017191-1%20B1%20%E2%80%93%20Sensor%20para%20medi%C3%A7%C3%A3o%20de%20PH%20em%20sistemas%20microfluidicos%20%20(P%C3%A1g.%2094).pdf)
 
 ## Outras Premiações 
 
 - ***CERTIFICADO 2º LUGAR PREMIO TCC 2018 - ORIENTADOR*** 
-[Comprovante n° VIII.02_Pág.]() 
+[Comprovante n° VIII.02_Pág.]) 
 
 - ***CERTIFICADO 1º LUGAR PREMIO TCC 2020 – ORIENTADOR***
 [Comprovante nº VIII.03_Pág.]()
