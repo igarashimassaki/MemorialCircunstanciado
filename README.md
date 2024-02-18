@@ -1,4 +1,4 @@
-# $${\color{darkblue}Memorial __  Circunstanciado}$$
+# $${\color{darkblue}Memorial __ Circunstanciado}$$
 ## Prof. Massaki de O. Igarashi
 
 <div align="justify">
