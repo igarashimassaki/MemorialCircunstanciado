@@ -275,4 +275,4 @@ RP  BR 10 2016 017191-1 B1 – Sensor para medição de PH em sistemas microflu�
 - ***CERTIFICADO 1º LUGAR PREMIO TCC 2022.2 – ORIENTADOR***
 [Comprovante nº VIII.04_Pág.97](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VIII.04%20-%202022.2_CERTIFICADO%201%C2%BA%20LUGAR%20PREMIO%20TCC%202022.2%20%E2%80%93%20ORIENTADOR%20(P%C3%A1g.%2097).pdf)
 
-<code style="color : blue">text</code>
+$\color{green}{test}$
