@@ -1,5 +1,5 @@
 # $${\color{darkblue}Memorial_-Circunstanciado}$$
-## Prof. Massaki de O. Igarashi [**E-mail:**](mailto: massaki.igarashi@gmail.com)
+## Prof. Massaki de O. Igarashi [E-mail:](massaki.igarashi@gmail.com)
 
 <div align="justify">
     O presente memorial está dividido em oito partes. 
