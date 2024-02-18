@@ -1,3 +1,5 @@
+## $${\color{blue}TESTE}$$
+
 # Memorial Circunstanciado - Prof. Massaki de O. Igarashi
 
 <div align="justify">
