@@ -225,7 +225,7 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 ## Presidente (Orientador) e Membro (Convidado) de Bancas TCC
 	
-**2023**	*Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.]()
+**2023**	*Declaração Bancas TCC 2023.2 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.75_0]()
 	
 **2023**	*Declaração Bancas TCC 2023.1 - Membro e PRESIDENTE:* [Comprovante n° VII.07_Pág.]()
 
@@ -235,7 +235,7 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 
 **2021*		*Declaração Bancas TCC 2021.1 - PRESIDENTE:* [Comprovante n° VII.10_Pág.]()
 
-**2021**	*Declaração Bancas TCC 2021.2 - 1de2 – Membro:* [Comprovante n° VII.11_Pág.]
+**2021**	*Declaração Bancas TCC 2021.2 - 1de2 – Membro:* [Comprovante n° VII.11_Pág.]()
 
 **2021**	*Declaração Bancas TCC 2021.2 - 2de2 – Membro:* [Comprovante n° VII.12_Pág.]()
 
