@@ -1,6 +1,6 @@
 <div align="center">
 	
-# $\textcolor{darkblue}{Memorial\ Circunstanciado \ (\ prof.\ Massaki\ de\ O.\ Igarashi\ (e-mail:\ massaki.igarashi@gmail.com)}$
+# $\textcolor{darkblue}{Memorial \ Circunstanciado \ (\ prof. \ Massaki \ de \ O. \ Igarashi \ (e-mail:\ massaki.igarashi@gmail.com)}$
 ### Prof. Massaki de O. Igarashi (e-mail: massaki.igarashi@gmail.com)
 
 </div> 
