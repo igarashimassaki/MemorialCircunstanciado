@@ -35,7 +35,7 @@
     Optei por apresentar apenas as referências que julguei necessárias para orientar a compreensão do leitor, uma vez que haverá possibilidade de interlocução, na qual mais esclarecimentos serão possíveis. Alguns autores foram apenas nominalmente citados, sem a referência completa, com o mesmo propósito. 
 </div> 
 <div align="justify">
-    No presente momento, resido na cidade de Jundiaí-SP e estou em busca de recolocação no mercado de trabalho como professor universitário, após ter atuado, desde o ano de 2014, como professor adjunto mestre I, nos cursos de engenharia de produção e engenharia civil; e neste último ano também no curso de Administração de empresas (lecionando Gestão de Inovação, Sistemas de Informação aplicados à Gestão e Informática Básica para Administradores) na Universidade Presbiteriana Mackenzie Campinas – SP.  
+    No presente momento, resido na cidade de Jundiaí-SP e posso atual como instrutor técnico e também como professor universitário, após ter atuado, desde o ano de 2014, como professor adjunto mestre I, nos cursos de engenharia de produção e engenharia civil; e neste último ano também no curso de Administração de empresas (lecionando Gestão de Inovação, Sistemas de Informação aplicados à Gestão e Informática Básica para Administradores) na Universidade Presbiteriana Mackenzie Campinas – SP e desde 2024 l, até o presente momento, como Instrutor técnico III no SENAI Roberto Mange, Campinas -SP.  
 </div>
 <div align="justify"> 
     Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
