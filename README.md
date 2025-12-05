@@ -6,7 +6,7 @@
 </div> 
 <div align="center">
 	
-[QRcode_MemorialMSK](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memoerial_MSK.png](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memorial_MSK.png)
+[QRcode_MemorialMSK](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memorial_MSK.png)
 	
 </div> 
 
