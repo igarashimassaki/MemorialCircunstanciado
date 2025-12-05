@@ -2,6 +2,10 @@
 	
 # $\textcolor{darkblue}{Memorial \ Circunstanciado \ do \ prof. \ Massaki \ de \ O. \ Igarashi}$
 ### (e-mail: massaki.igarashi@gmail.com)
+</div> 
+<div align="center">
+	[QRcode_Memoerial_MSK]()
+</div> 
 
 </div> 
 <div align="justify">
