@@ -262,7 +262,7 @@ Contrato MackPesquisa - Observatório Mackenzie de precedentes obritatórios_Dec
 ## Patentes: 
 $\color{darkblue}{RP BR 10 2016 017191-1 B1  – }$ Sensor  para  medição  de  pH  em  sistemas  microfluídicos
 
-[Comprovante n° VIII.01_Pág.94](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VIII.01_COMPROVANTE%20PEDIDO%20PATENTE.png)
+[Comprovante n° VIII.01_Pág.94](https://share.google/bvpOefmtYnTLrGpzD)
 
 ## Outras Premiações 
 
