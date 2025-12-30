@@ -56,7 +56,7 @@ Resido atualmente em Jundiaí (SP) e estou plenamente disponível para contribui
 <div align="center"> 
 _______________________________________________________________________________________________________________________________________________________
 </div>
-    <div align="right">Jundiaí, fevereiro de 2024. 
+    <div align="right">Jundiaí, Janeiro de 2026. 
     
 Massaki de Oliveira Igarashi.</div>
 
