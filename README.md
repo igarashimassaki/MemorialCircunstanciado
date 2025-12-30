@@ -186,6 +186,12 @@ Ensino ativo e inclusivo na engenharia: um relato de caso – COBENGE 2018
 
 ## Como Avaliador 
 
+**2025**	*Certificado Avaliador 16ª BENTOTEC 2025:* [Comprovante n° VI.26](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.26_Certificado%20Avalliador%20BENTOTEC%202025.pdf)
+
+**2025**	*Certificado Avaliador 23ª FEBRACE 2025:* [Comprovante n° VI.25](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.25_Certificado%20Avalliador%20FEBRACE%202025.pdf)
+
+**2024**	*Certificado Avaliador 15ª BENTOTEC 2024:* [Comprovante n° VI.24](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.24_Certificado%20Avalliador%20BENTOTEC%202024.pdf)
+
 **2023**	*Certificado Avaliador 14ª BENTOTEC 2023:* [Comprovante n° VI.08_Pág.51](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.08_1_Certificado%20Avaliador%2014%C2%AA%20BENTOTEC%202023%20(P%C3%A1g.%2051).pdf)
 
 [Comprovante nº VI.08_2](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/VI.08_2_Of%C3%ADcio%20Avaliador%2014%C2%AA%20BENTOTEC%202023.pdf)
