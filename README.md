@@ -41,7 +41,6 @@ Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experi�
 <div align="justify">
     O presente memorial está dividido em oito partes. 
     Primeiramente, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
-
     Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos anos. 
     Não menos importante, também apresento minhas participações em congressos, workshops etc. Ressalto ainda, na sexta parte, minha experiência como organizador, como avaliador e as apresentações orais em congressos; assim como participação de ouvinte, autor e co-autor de trabalhos.
 
@@ -59,6 +58,7 @@ Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experi�
 
     Todas as atividades citadas neste memorial possuem documento comprobatório e estão devidamente indicadas com um respectivo número devidamente referenciado neste memorial. 
     Agradeço a oportunidade e coloco-me à disposição para maiores esclarecimentos. 
+	
 </div>
 
 <div align="center"> 
@@ -66,9 +66,7 @@ ________________________________________________________________________________
 </div>
 
 <div align="right">Jundiaí, Janeiro de 2026.   
-
 	Massaki de Oliveira Igarashi.
-	
 </div>
 
 # I. DADOS PESSOAIS 
