@@ -28,7 +28,7 @@ Resido atualmente em Jundiaí (SP) e estou plenamente disponível para contribui
 - Instrutor técnico 
 - ou outras atividades (treinamentos e consultor em P&D).
 
-Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experiência multidisciplinar, liderança acadêmica e visão inovadora a instituições que valorizem a integração entre tecnologia, educação e transformação social.***
+Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experiência multidisciplinar, liderança acadêmica e visão inovadora a instituições que valorizem a integração entre tecnologia, educação e transformação social.
 </div> 
 
 <div align="center">
