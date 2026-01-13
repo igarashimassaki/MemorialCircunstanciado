@@ -21,7 +21,7 @@ Com sólida base em linguagens como C, C++, Python, R e VBA, e expertise em sist
 Resido atualmente em Jundiaí (SP) e estou plenamente disponível para contribuir como:
 
 **Estou disponível para contribuir como:**
-- Consultoria especializada para soluções tecnológicas e Inovação, 
+- Consultor especializado para soluções tecnológicas e Inovação, 
 - Headhunter, 
 - Docente universitário, 
 - Coordenador pedagógico e acadêmico, 
