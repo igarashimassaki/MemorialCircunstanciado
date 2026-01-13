@@ -33,16 +33,18 @@ Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experi�
 </div> 
 
 <div align="center">
-	
 ![QRcode_MemorialMSK](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memorial_MSK.png)
-	
 </div> 
 
 <div align="justify">
-    O presente memorial está dividido em oito partes. 
-    Primeiramente, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
-    Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos anos. 
-    Não menos importante, também apresento minhas participações em congressos, workshops etc. Ressalto ainda, na sexta parte, minha experiência como organizador, como avaliador e as apresentações orais em congressos; assim como participação de ouvinte, autor e co-autor de trabalhos.
+   
+	O presente memorial está dividido em oito partes. 
+    
+	Primeiramente, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
+    
+	Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos anos. 
+    
+	Não menos importante, também apresento minhas participações em congressos, workshops etc. Ressalto ainda, na sexta parte, minha experiência como organizador, como avaliador e as apresentações orais em congressos; assim como participação de ouvinte, autor e co-autor de trabalhos.
 
     Na sétima parte apresento minha experiência profissional com destaque para minha participação em um projeto de pesquisa multidisciplinar envolvendo o curso de engenharia, direito e computação do Mackenzie São Paulo; não obstante, também destaco minhas orientações de Trabalho de Conclusão de Curso - TCC em Engenharia de Produção e Eng. Civil, minha participação como presidente e membro de bancas TCC, como parecerista e membro do Núcleo Docente Estruturante (NDE) e Colegiado de cursos desde 2021. 
 
@@ -65,7 +67,9 @@ Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experi�
 _______________________________________________________________________________________________________________________________________________________
 </div>
 
-<div align="right">Jundiaí, Janeiro de 2026.   
+<div align="right">
+	Jundiaí, Janeiro de 2026.   
+	
 	Massaki de Oliveira Igarashi.
 </div>
 
