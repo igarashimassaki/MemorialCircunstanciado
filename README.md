@@ -13,13 +13,15 @@ Na extensão, destaco minha atuação coordenando eventos acadêmicos de impacto
 Na pesquisa, participei de projetos multidisciplinares que envolvem engenharia, direito e computação, além do desenvolvimento e depósito de patente de um sensor ISFET para medição de pH em sistemas microfluídicos — uma solução inovadora fruto de investigação aplicada. Minha produção científica inclui publicações recentes, apresentações em congressos nacionais e internacionais, além de atuações como avaliador, organizador e parecerista em eventos técnicos e acadêmicos. Também orientei diversos Trabalhos de Conclusão de Curso (TCC), alguns dos quais foram premiados, refletindo meu empenho em fomentar a excelência acadêmica e a criatividade dos estudantes.
 Com sólida base em linguagens como C, C++, Python, R e VBA, e expertise em sistemas embarcados (Arduino, ESP32, sensores inteligentes), atuo com mentalidade empreendedora, pró ativa e orientada à solução de problemas. Acredito que a inovação surge na interseção entre disciplinas — e é nesse espaço que busco atuar, conectando teoria, prática, gestão e impacto social.
 Resido atualmente em Jundiaí (SP) e estou plenamente disponível para contribuir como:
-Estou disponível para contribuir como: 
+
+**Estou disponível para contribuir como: 
 - Consultoria especializada para soluções tecnológicas e Inovação, 
 - Headhunter, 
 - Docente universitário, 
 - Coordenador pedagógico e acadêmico, 
 - Instrutor técnico 
 - ou outras atividades (treinamentos e consultor em P&D).
+
 Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experiência multidisciplinar, liderança acadêmica e visão inovadora a instituições que valorizem a integração entre tecnologia, educação e transformação social.***
 </div> 
 
