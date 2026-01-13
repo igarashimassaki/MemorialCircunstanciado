@@ -33,11 +33,13 @@ Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experi�
 </div> 
 
 <div align="center">
+	
 ![QRcode_MemorialMSK](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memorial_MSK.png)
 
 </div> 
 
 <div align="justify">
+	
 	O presente memorial está dividido em oito partes. 
     
 	Primeiramente, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
