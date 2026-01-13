@@ -43,7 +43,7 @@ Cujo meu conhecimento técnico e perfil possam contribuir, levando minha experi�
     Primeiramente, descrevo o resumo dos meus dados pessoais. Seguido do meu Currículo Lattes. Por conseguinte, na terceira parte, a comprovação de Formação acadêmica em Engenharia Elétrica / Modalidade Eletrônica, com mestrado em Engenharia da Informação pela UFABC; tendo uma formação e atuação multidisciplinar desde minha graduação (quando fui monitor de Linguagem de Programação e Microcontroladores I).
 </div>    
 <div align="justify">
-    Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos 5 anos. 
+    Na quarta parte apresento minha formação complementar seguida das minhas principais publicações nos últimos anos. 
     Não menos importante, também apresento minhas participações em congressos, workshops etc. Ressalto ainda, na sexta parte, minha experiência como organizador, como avaliador e as apresentações orais em congressos; assim como participação de ouvinte, autor e co-autor de trabalhos.
 </div>
 <div align="justify">
