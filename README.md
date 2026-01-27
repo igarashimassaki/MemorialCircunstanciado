@@ -1,4 +1,8 @@
 <div align="center">
+[CV_RESUMIDO](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/V.03%20-%20Twenty%20Years%20Survey%20of%20Big%20Data_%20Definition%2C%20Concepts%2C%20and%20Applications%20in%20Engineering%20_%20SpringerLink%20(P%C3%A1g.%2031).pdf)
+
+</div>
+<div align="center">
 	
 # $\textcolor{darkblue}{Memorial \ Circunstanciado \ do \ prof. \ Massaki \ de \ O. \ Igarashi}$
 ### (e-mail: massaki.igarashi@gmail.com)
@@ -71,14 +75,17 @@ ________________________________________________________________________________
 
 <div align="right">
 	Jundiaí, Janeiro de 2026.   
+
 	
 	Massaki de Oliveira Igarashi.
+
+	
 </div>
 
 <div align="left">
+	
 # I. DADOS PESSOAIS 
 **Nome:** 		   Massaki de Oliveira Igarashi
-
 **Endereço:** 	   Ponte São João – Jundiaí - SP
 
 # II. CURRÍCULO LATTES 
