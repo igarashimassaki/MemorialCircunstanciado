@@ -41,7 +41,7 @@ Cujo meu conhecimento t√©cnico e perfil possam contribuir, levando minha experi√
 
 <div align="center">
 	
-![QRcode_MemorialMSK](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memorial_MSK.png)
+![QRcode_MemorialMSK](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/QRcode_Memorial_MSK.jpg)
 
 </div> 
 
