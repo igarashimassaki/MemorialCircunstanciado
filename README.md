@@ -2,7 +2,7 @@
 	
 [CV_RESUMIDO](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/I.%20CV%20Massaki%202026_v1%20(em%2013jan26).pdf)
 
-![QRcode_CV_resumido](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/I.%20QRcode_CV_Massaki%202026_v1.jpeg)
+![QRcode_CV_resumido](https://github.com/igarashimassaki/MemorialCircunstanciado/blob/main/I.%20QRcode_CV_Massaki%202026_v1.0.jpg)
 
 </div>
 <div align="center">
